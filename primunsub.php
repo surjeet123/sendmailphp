@@ -2,7 +2,7 @@
 
 $SenderAddress = "test@test.com";
 
-
+phpinfo();
 
 define('OCU_RELEASE', '1.1');
 define('OCU_ERR', !empty($_GET['err']));
